@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "4ec2b75a2be6a7c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a952b61345497dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b355b965ce081db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "มุมมองกราฟ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a9a47ee5af30626",
+    "type": "split",
+    "children": [
+      {
+        "id": "0df5a0cbba9737b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd7017b0c8a5f1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "1ddc87fe8acc8a4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "ค้นหา"
+            }
+          },
+          {
+            "id": "b935d616e5c349f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "บุ๊กมาร์ก"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eca62b34d9c3aa57",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b2f9256a4d2971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "072490546002e21b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "แบ็คลิงค์"
+            }
+          },
+          {
+            "id": "58287ea4ad7f0a39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ลิงค์ขาออก"
+            }
+          },
+          {
+            "id": "b4aef60d034085fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "แท็ก"
+            }
+          },
+          {
+            "id": "340780006e265fc7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "คุณสมบัติทั้งหมด"
+            }
+          },
+          {
+            "id": "9e4dcdf251c579ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "โครงเรื่อง"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "canvas:สร้างผืนผ้าใบใหม่": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
+      "bases:สร้างฐานใหม่": false
+    }
+  },
+  "active": "5b355b965ce081db",
+  "lastOpenFiles": [
+    "2026-05-16-bot-memory-folder-policy.md",
+    "jj-cluster-physical-internet-future-logistics.md",
+    "jj-cluster-sme-industry-4-0.md",
+    "jj-cluster-corridors-hubs-regional-development.md",
+    "jj-mode-quality.md",
+    "jj-mode-work.md",
+    "jj-cluster-agri-food-cold-chain.md",
+    "jj-cluster-green-sustainable-supply-chain.md",
+    "jj-cluster-decision-support-mcdm-forecasting.md",
+    "jj-cluster-lean-operations.md",
+    "jj-mode-caring.md",
+    "jj-cluster-airport-aviation-logistics.md",
+    "jj-logistics-calculation-modeling.md",
+    "jj-books-and-book-chapters.md",
+    "jj-research-themes-map.md",
+    "jj-calendar-and-google-workspace.md",
+    "jj-visual-persona-image.md",
+    "jj-user-apichat-profile.md",
+    "jj-cache-documents-and-local-assets.md",
+    "jj-morning-briefing-7am.md",
+    "jj-article-writing-capability.md",
+    "jj-physical-internet.md",
+    "jj-transport-policy-advisory.md",
+    "jj-identity-persona.md",
+    "jj-edpex-mids-quality.md",
+    "jj-lifestyle-and-caring-mode.md"
+  ]
+}
