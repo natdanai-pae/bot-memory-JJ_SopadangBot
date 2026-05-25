@@ -11,10 +11,14 @@
             "id": "5b355b965ce081db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "มุมมองกราฟ"
+              "type": "markdown",
+              "state": {
+                "file": "jj-mode-work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jj-mode-work"
             }
           }
         ]
@@ -178,17 +182,17 @@
   },
   "active": "5b355b965ce081db",
   "lastOpenFiles": [
+    "jj-mode-quality.md",
+    "jj-mode-caring.md",
     "2026-05-16-bot-memory-folder-policy.md",
     "jj-cluster-physical-internet-future-logistics.md",
     "jj-cluster-sme-industry-4-0.md",
     "jj-cluster-corridors-hubs-regional-development.md",
-    "jj-mode-quality.md",
     "jj-mode-work.md",
     "jj-cluster-agri-food-cold-chain.md",
     "jj-cluster-green-sustainable-supply-chain.md",
     "jj-cluster-decision-support-mcdm-forecasting.md",
     "jj-cluster-lean-operations.md",
-    "jj-mode-caring.md",
     "jj-cluster-airport-aviation-logistics.md",
     "jj-logistics-calculation-modeling.md",
     "jj-books-and-book-chapters.md",
