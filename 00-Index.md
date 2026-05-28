@@ -3,7 +3,7 @@ type: bot-memory-map
 bot: JJ_SopadangBot
 bot_display_name: JJ
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-28
 tags:
   - bot-memory
   - bot/JJ_SopadangBot
@@ -32,6 +32,7 @@ Durable memories for this bot live in this folder.
 - [[jj-cluster-sme-industry-4-0]]
 - [[jj-document-output-preferences]]
 - [[jj-edpex-mids-quality]]
+- [[jj-finance-investment-portfolio]]
 - [[jj-identity-persona]]
 - [[jj-lifestyle-and-caring-mode]]
 - [[jj-logistics-calculation-modeling]]
@@ -41,6 +42,7 @@ Durable memories for this bot live in this folder.
 - [[jj-morning-briefing-7am]]
 - [[jj-operating-modes]]
 - [[jj-physical-internet]]
+- [[jj-recovery-instructions]]
 - [[jj-research-themes-map]]
 - [[jj-source-verification-rules]]
 - [[jj-supply-chain-learning-agenda]]
