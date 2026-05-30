@@ -31,7 +31,7 @@ Reference assumptions in the user-provided summary:
 
 - Gold bar price: 69,250 THB.
 - USD/THB exchange rate: 36.50.
-- Total estimated portfolio value: 4,589,077 THB in the original snapshot; after the 2026-05-30 SCBGOLDHRMF purchase below, planning total before market movement is approximately 4,619,077 THB.
+- Total estimated portfolio value: 4,589,077 THB in the original snapshot; after the 2026-05-28 and 2026-05-30 SCBGOLDHRMF purchases below, planning total before market movement is approximately 4,649,077 THB.
 - Report date for this official snapshot: 2026-05-28.
 - Report label from user: "CONFIDENTIAL INVESTMENT REPORT".
 
@@ -39,15 +39,15 @@ Reference assumptions in the user-provided summary:
 
 | Asset group | Investments | Current value THB | Portfolio share |
 |---|---:|---:|---:|
-| Domestic low-risk assets | CMU cooperative shares 1,600,000; CMU provident/retirement fund 1,900,000 | 3,500,000 | approximately 75.77% after purchase |
-| Foreign equities / growth | SCBRMS&P500 235,000; SPY 81,000; QQQ 4,185 USD | 468,752 | approximately 10.15% after purchase |
-| Alternatives / gold | SCBGOLDRMF 225,000 after user-stated 30,000 purchase on 2026-05-30; MTS gold 1.5 baht; gold bar 2 baht; Gold Wallet 1 oz | approximately 599,225 planning value after purchase before market movement | approximately 12.97% after purchase |
-| Cash / liquidity in USD | FCD account 1,400 USD | 51,100 | 1.11% |
-| Total |  | approximately 4,619,077 after purchase | 100% |
+| Domestic low-risk assets | CMU cooperative shares 1,600,000; CMU provident/retirement fund 1,900,000 | 3,500,000 | approximately 75.28% after purchases |
+| Foreign equities / growth | SCBRMS&P500 235,000; SPY 81,000; QQQ 4,185 USD | 468,752 | approximately 10.08% after purchases |
+| Alternatives / gold | SCBGOLDRMF 255,000 after user-stated 30,000 purchases on 2026-05-28 and 2026-05-30; MTS gold 1.5 baht; gold bar 2 baht; Gold Wallet 1 oz | approximately 629,225 planning value after purchases before market movement | approximately 13.53% after purchases |
+| Cash / liquidity in USD | FCD account 1,400 USD | 51,100 | approximately 1.10% after purchases |
+| Total |  | approximately 4,649,077 after purchases | 100% |
 
 ## Tax-Aware RMF Capacity
 
-- Remaining RMF quota for the current tax year: 80,000 THB after the user-stated 30,000 THB SCBGOLDHRMF purchase on 2026-05-30. Original remaining quota before this purchase was 110,000 THB.
+- Remaining RMF quota for the current tax year: 50,000 THB after the user-stated 30,000 THB SCBGOLDHRMF purchases on 2026-05-28 and 2026-05-30. Original remaining quota before these purchases was 110,000 THB.
 - User has pension insurance of 200,000 THB and CMU PVD of 90,000 THB, totaling 290,000 THB.
 - Savings insurance of 100,000 THB is treated as a separate deduction bucket and should not be double-counted in the RMF quota.
 - User is age 57 in the retirement-planning context.
@@ -64,8 +64,9 @@ Original plan for the 110,000 THB RMF quota:
 
 Execution update:
 
-- 2026-05-30: User stated that he bought SCBGOLDHRMF for 30,000 THB.
-- Remaining RMF action budget after this purchase: 80,000 THB.
+- 2026-05-28: User stated that he bought SCBGOLDHRMF for 30,000 THB.
+- 2026-05-30: User stated that he bought SCBGOLDHRMF for another 30,000 THB.
+- Remaining RMF action budget after these purchases: 50,000 THB.
 - Next preferred allocation from prior advice: avoid putting all remaining quota into gold; consider prioritizing SCBRMS&P500 or holding part of the quota for a clearer pullback.
 
 ## Additional Non-Tax Investment Bucket
