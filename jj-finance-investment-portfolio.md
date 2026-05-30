@@ -69,6 +69,16 @@ Current execution stance:
 - Remaining RMF action budget confirmed by user: 80,000 THB.
 - Next preferred allocation from prior advice: avoid putting all remaining quota into gold; consider prioritizing SCBRMS&P500 or holding part of the quota for a clearer pullback.
 
+Buy-signal trigger requested by user:
+
+- During the morning news/check-in, alert the user if S&P 500 has pulled back enough to consider buying SCBRMS&P500 RMF.
+- Use SPY/S&P 500 drawdown from recent high as the proxy.
+- If drawdown is 3-5%, suggest first SCBRMS&P500 tranche around 30,000 THB.
+- If drawdown is 5-7%, suggest second tranche around 25,000 THB.
+- If drawdown is more than 7%, suggest third tranche around 25,000 THB or split more carefully based on macro risk.
+- If drawdown is below 3%, state clearly that it has not reached the trigger.
+- If no meaningful pullback occurs by Q4, remind the user to DCA before year-end to preserve RMF tax use.
+
 ## Additional Non-Tax Investment Bucket
 
 Additional investment amount discussed: 100,000 THB outside tax quota.
