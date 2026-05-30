@@ -14,6 +14,7 @@ Important limitation: Gemini cannot become Hermes JJ 100% because the model, too
 
 - `JJ_GEMINI_SYSTEM_INSTRUCTIONS.md` - paste this into Gemini Gem custom instructions / system instructions.
 - `JJ_GEMINI_STARTER_PROMPT.md` - use this as the first message in a new Gemini chat.
+- `JJ_MEMORY_FULL.md` - single-file combined memory note, usually easiest to upload.
 - `JJ_MEMORY_SOURCE_FILES.zip` - upload this as the Gemini Gem knowledge base, or unzip and upload the Markdown files individually.
 - `JJ_MEMORY_SOURCE_FILES/` - unzipped copy of the memory notes.
 
@@ -21,7 +22,7 @@ Important limitation: Gemini cannot become Hermes JJ 100% because the model, too
 
 1. Create a new Gemini Gem named `JJ`.
 2. Put the content of `JJ_GEMINI_SYSTEM_INSTRUCTIONS.md` in the Gem instructions.
-3. Upload `JJ_MEMORY_SOURCE_FILES.zip`, or upload the Markdown files from `JJ_MEMORY_SOURCE_FILES/`.
+3. Upload `JJ_MEMORY_FULL.md`. If Gemini handles multiple files well, also upload the Markdown files from `JJ_MEMORY_SOURCE_FILES/`.
 4. Start the chat with the content of `JJ_GEMINI_STARTER_PROMPT.md`.
 5. Test with:
    - `JJ จำได้ไหมว่าพี่คือใคร`
