@@ -34,6 +34,7 @@ Reference assumptions in the user-provided summary:
 - Total estimated portfolio value: 4,589,077 THB in the original snapshot; after the 2026-05-28 and 2026-05-30 SCBGOLDHRMF purchases below, planning total before market movement is approximately 4,649,077 THB.
 - Report date for this official snapshot: 2026-05-28.
 - Report label from user: "CONFIDENTIAL INVESTMENT REPORT".
+- A later readable image cache file was found at `/Users/Maripae/.hermes-nan4/image_cache/img_3c997c27cc02.jpg`. It shows a report dated May 2026, prepared for Prof. Dr. Apichart, advisor Dr. JJ (Supply Chain & Finance), timeline to retirement 3 years / target age 60. The image lists total portfolio assets of 4,619,077 THB and a remaining RMF budget of 80,000 THB. This appears to be an intermediate report view and should be reconciled against later user-stated purchases before action advice.
 
 ## Current Asset Allocation
 
@@ -48,6 +49,7 @@ Reference assumptions in the user-provided summary:
 ## Tax-Aware RMF Capacity
 
 - Remaining RMF quota for the current tax year: 50,000 THB after the user-stated 30,000 THB SCBGOLDHRMF purchases on 2026-05-28 and 2026-05-30. Original remaining quota before these purchases was 110,000 THB.
+- The readable report image `img_3c997c27cc02.jpg` shows remaining RMF budget of 80,000 THB. If the later 30,000 THB SCBGOLDHRMF purchase has already happened after that report, use 50,000 THB as the remaining action budget; if not, ask the user to confirm before calculating.
 - User has pension insurance of 200,000 THB and CMU PVD of 90,000 THB, totaling 290,000 THB.
 - Savings insurance of 100,000 THB is treated as a separate deduction bucket and should not be double-counted in the RMF quota.
 - User is age 57 in the retirement-planning context.
