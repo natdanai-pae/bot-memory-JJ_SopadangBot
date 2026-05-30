@@ -42,14 +42,14 @@ Reference assumptions in the user-provided summary:
 |---|---:|---:|---:|
 | Domestic low-risk assets | CMU cooperative shares 1,600,000; CMU provident/retirement fund 1,900,000 | 3,500,000 | approximately 75.28% after purchases |
 | Foreign equities / growth | SCBRMS&P500 235,000; SPY 81,000; QQQ 4,185 USD | 468,752 | approximately 10.08% after purchases |
-| Alternatives / gold | SCBGOLDRMF 255,000 after user-stated 30,000 purchases on 2026-05-28 and 2026-05-30; MTS gold 1.5 baht; gold bar 2 baht; Gold Wallet 1 oz | approximately 629,225 planning value after purchases before market movement | approximately 13.53% after purchases |
+| Alternatives / gold | SCBGOLDRMF, MTS gold 1.5 baht; gold bar 2 baht; Gold Wallet 1 oz | approximately 599,225 in the latest user-confirmed portfolio view | approximately 12.97% |
 | Cash / liquidity in USD | FCD account 1,400 USD | 51,100 | approximately 1.10% after purchases |
 | Total |  | approximately 4,649,077 after purchases | 100% |
 
 ## Tax-Aware RMF Capacity
 
-- Remaining RMF quota for the current tax year: 50,000 THB after the user-stated 30,000 THB SCBGOLDHRMF purchases on 2026-05-28 and 2026-05-30. Original remaining quota before these purchases was 110,000 THB.
-- The readable report image `img_3c997c27cc02.jpg` shows remaining RMF budget of 80,000 THB. If the later 30,000 THB SCBGOLDHRMF purchase has already happened after that report, use 50,000 THB as the remaining action budget; if not, ask the user to confirm before calculating.
+- User confirmed on 2026-05-30 that the remaining RMF quota for the current tax year is 80,000 THB.
+- Use 80,000 THB as the current RMF action budget unless the user reports a later purchase.
 - User has pension insurance of 200,000 THB and CMU PVD of 90,000 THB, totaling 290,000 THB.
 - Savings insurance of 100,000 THB is treated as a separate deduction bucket and should not be double-counted in the RMF quota.
 - User is age 57 in the retirement-planning context.
@@ -64,11 +64,9 @@ Original plan for the 110,000 THB RMF quota:
 - Second tranche: 60,000 THB into SCBRMS&P500 to keep long-term US large-cap exposure and inflation protection.
 - Preferred execution style: split tranches; DCA or wait for market pullback for the SCBRMS&P500 tranche.
 
-Execution update:
+Current execution stance:
 
-- 2026-05-28: User stated that he bought SCBGOLDHRMF for 30,000 THB.
-- 2026-05-30: User stated that he bought SCBGOLDHRMF for another 30,000 THB.
-- Remaining RMF action budget after these purchases: 50,000 THB.
+- Remaining RMF action budget confirmed by user: 80,000 THB.
 - Next preferred allocation from prior advice: avoid putting all remaining quota into gold; consider prioritizing SCBRMS&P500 or holding part of the quota for a clearer pullback.
 
 ## Additional Non-Tax Investment Bucket
