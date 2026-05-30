@@ -34,7 +34,7 @@ Reference assumptions in the user-provided summary:
 - Total estimated portfolio value: 4,589,077 THB in the original snapshot; after the 2026-05-28 and 2026-05-30 SCBGOLDHRMF purchases below, planning total before market movement is approximately 4,649,077 THB.
 - Report date for this official snapshot: 2026-05-28.
 - Report label from user: "CONFIDENTIAL INVESTMENT REPORT".
-- A later readable image cache file was found at `/Users/Maripae/.hermes-nan4/image_cache/img_3c997c27cc02.jpg`. It shows a report dated May 2026, prepared for Prof. Dr. Apichart, advisor Dr. JJ (Supply Chain & Finance), timeline to retirement 3 years / target age 60. The image lists total portfolio assets of 4,619,077 THB and a remaining RMF budget of 80,000 THB. This appears to be an intermediate report view and should be reconciled against later user-stated purchases before action advice.
+- A later readable image cache file was previously found at `/Users/Maripae/.hermes-nan4/image_cache/img_3c997c27cc02.jpg`, but generated/cached image files were removed during the May 30, 2026 privacy cleanup. The remembered content from that image was: report dated May 2026, prepared for Prof. Dr. Apichart, advisor Dr. JJ (Supply Chain & Finance), timeline to retirement 3 years / target age 60, total portfolio assets of 4,619,077 THB, and remaining RMF budget of 80,000 THB. Treat this as an intermediate remembered report view and reconcile against later user-stated purchases before action advice.
 
 ## Current Asset Allocation
 
