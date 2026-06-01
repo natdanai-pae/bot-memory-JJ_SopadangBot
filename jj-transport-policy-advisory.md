@@ -21,6 +21,8 @@ User stated that Prof. Apichat is an advisor to Deputy Minister of Transport Pha
 - AOT / Airports of Thailand is outside this responsibility scope.
 - The role also includes Ministry of Transport inspection trips in Northern Thailand.
 - When preparing advisory notes for this role, prioritize aviation policy, aviation agencies, airport systems outside AOT, air navigation, training, safety/service performance, and northern regional inspection issues.
+- Do not force every aviation issue to connect to Northern Thailand. Northern Thailand is one inspection responsibility area, not the mandatory frame for all aviation advice.
+- Connect an issue to Northern Thailand only when the facts, agency agenda, geography, or policy opportunity genuinely fit.
 
 ## Agencies / Entities Mentioned
 
