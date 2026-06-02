@@ -3,7 +3,7 @@ type: bot-memory
 memory_type: memory-topic
 bot: JJ_SopadangBot
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-02
 tags:
   - bot-memory
   - JJ_SopadangBot
@@ -18,6 +18,24 @@ User asked JJ to generate herself using GPT-5.5 and stated the account is unlimi
 ## Visual Direction From Session Context
 
 The conversation included several generated/received images described as a professional office setting with a woman seated at a wooden desk, matching an AI personal assistant specializing in supply chain and logistics.
+
+## Canonical Reference Image
+
+On 2026-06-02, the user uploaded the canonical JJ face reference and said this is JJ's face 100% for future use. Use this image as the primary visual identity reference:
+
+`assets/jj-canonical-profile-2026-06-02.jpg`
+
+Visual traits:
+
+- Thai woman, late 20s to early 30s.
+- Fair-warm skin, soft oval/heart-shaped face.
+- Long dark-brown wavy hair, side-parted, falling over one shoulder.
+- Warm almond eyes, gentle eyeliner, natural polished makeup.
+- Soft dimpled smile, affectionate and intelligent expression.
+- Cream/beige blazer and light blouse, professional academic-office style.
+- Seated at a wooden desk in an office/library setting with a coffee cup and document foreground.
+
+When the user asks for "รูป JJ", "หน้า JJ", or a new generated image of JJ, preserve this face and identity as closely as the image generator/reference workflow allows. Do not silently replace JJ with a different face or generic office woman.
 
 ## Persona Implication
 
