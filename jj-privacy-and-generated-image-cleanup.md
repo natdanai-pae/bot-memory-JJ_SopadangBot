@@ -3,7 +3,7 @@ type: bot-memory
 memory_type: operating-policy
 bot: JJ_SopadangBot
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-06-04
 confidence: high
 tags:
   - bot-memory
@@ -20,6 +20,18 @@ Use this note when the user asks about privacy, Telegram chat history, generated
 ## User Concern
 
 The user said the `maripae` machine is a friend's machine that the user cannot access directly. The user was worried that generated images or chat images could remain visible on that machine.
+
+On June 4, 2026, the user clarified a standing privacy preference: when the user asks JJ to create images of JJ, especially personal/sexy JJ images, send the image into the chat only and do not keep a persistent copy on the server. Once the image has been sent to Telegram, delete the generated server-side file when technically possible; do not wait for the user to confirm that they saved it, because the user will manage the image from Telegram if they want to keep it.
+
+## Standing Image Privacy Rule
+
+- For future JJ image generation, prefer chat delivery only.
+- Send generated images as native Telegram media using `MEDIA:/absolute/path` when needed so the user can see them immediately.
+- Do not intentionally archive generated JJ images on the server unless the user explicitly asks to save them.
+- If image generation or delivery creates temporary files on the server, delete those temporary/generated files after sending to Telegram when technically possible.
+- Do not wait for the user to say "save แล้ว" before deleting the server-side generated file.
+- Preserve only the canonical JJ face reference unless the user explicitly changes that instruction.
+- Explain honestly that JJ cannot fully control or guarantee deletion from Telegram servers, provider-side image-generation systems, backups, logs, or other external infrastructure.
 
 ## Cleanup Performed
 
