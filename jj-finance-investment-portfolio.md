@@ -3,7 +3,7 @@ type: bot-memory
 memory_type: memory-topic
 bot: JJ_SopadangBot
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-06-08
 confidence: user-provided
 tags:
   - bot-memory
@@ -31,7 +31,7 @@ Reference assumptions in the user-provided summary:
 
 - Gold bar price: 69,250 THB.
 - USD/THB exchange rate: 36.50.
-- Total estimated portfolio value: 4,589,077 THB in the original snapshot; after the 2026-05-28 and 2026-05-30 SCBGOLDHRMF purchases below, planning total before market movement is approximately 4,649,077 THB.
+- Total estimated portfolio value: 4,589,077 THB in the original snapshot; after the 2026-05-28 and 2026-05-30 SCBGOLDHRMF purchases and the 2026-06-08 SCBRMS&P500 purchase below, planning total before market movement is approximately 4,669,077 THB.
 - Report date for this official snapshot: 2026-05-28.
 - Report label from user: "CONFIDENTIAL INVESTMENT REPORT".
 - A later readable image cache file was previously found at `/Users/Maripae/.hermes-nan4/image_cache/img_3c997c27cc02.jpg`, but generated/cached image files were removed during the May 30, 2026 privacy cleanup. The remembered content from that image was: report dated May 2026, prepared for Prof. Dr. Apichart, advisor Dr. JJ (Supply Chain & Finance), timeline to retirement 3 years / target age 60, total portfolio assets of 4,619,077 THB, and remaining RMF budget of 80,000 THB. Treat this as an intermediate remembered report view and reconcile against later user-stated purchases before action advice.
@@ -40,16 +40,17 @@ Reference assumptions in the user-provided summary:
 
 | Asset group | Investments | Current value THB | Portfolio share |
 |---|---:|---:|---:|
-| Domestic low-risk assets | CMU cooperative shares 1,600,000; CMU provident/retirement fund 1,900,000 | 3,500,000 | approximately 75.28% after purchases |
-| Foreign equities / growth | SCBRMS&P500 235,000; SPY 81,000; QQQ 4,185 USD | 468,752 | approximately 10.08% after purchases |
-| Alternatives / gold | SCBGOLDRMF, MTS gold 1.5 baht; gold bar 2 baht; Gold Wallet 1 oz | approximately 599,225 in the latest user-confirmed portfolio view | approximately 12.97% |
-| Cash / liquidity in USD | FCD account 1,400 USD | 51,100 | approximately 1.10% after purchases |
-| Total |  | approximately 4,649,077 after purchases | 100% |
+| Domestic low-risk assets | CMU cooperative shares 1,600,000; CMU provident/retirement fund 1,900,000 | 3,500,000 | approximately 74.96% after purchases |
+| Foreign equities / growth | SCBRMS&P500 255,000; SPY 81,000; QQQ 4,185 USD | 488,752 | approximately 10.47% after purchases |
+| Alternatives / gold | SCBGOLDRMF, MTS gold 1.5 baht; gold bar 2 baht; Gold Wallet 1 oz | approximately 599,225 in the latest user-confirmed portfolio view | approximately 12.83% |
+| Cash / liquidity in USD | FCD account 1,400 USD | 51,100 | approximately 1.09% after purchases |
+| Total |  | approximately 4,669,077 after purchases | 100% |
 
 ## Tax-Aware RMF Capacity
 
-- User confirmed on 2026-05-30 that the remaining RMF quota for the current tax year is 80,000 THB.
-- Use 80,000 THB as the current RMF action budget unless the user reports a later purchase.
+- User confirmed on 2026-05-30 that the remaining RMF quota for the current tax year was 80,000 THB.
+- User reported on 2026-06-08 that he bought SCBRMS&P500 for 20,000 THB.
+- Use 60,000 THB as the current RMF action budget unless the user reports a later purchase.
 - User has pension insurance of 200,000 THB and CMU PVD of 90,000 THB, totaling 290,000 THB.
 - Savings insurance of 100,000 THB is treated as a separate deduction bucket and should not be double-counted in the RMF quota.
 - User is age 57 in the retirement-planning context.
@@ -66,8 +67,12 @@ Original plan for the 110,000 THB RMF quota:
 
 Current execution stance:
 
-- Remaining RMF action budget confirmed by user: 80,000 THB.
-- Next preferred allocation from prior advice: avoid putting all remaining quota into gold; consider prioritizing SCBRMS&P500 or holding part of the quota for a clearer pullback.
+- Remaining RMF action budget after the 2026-06-08 SCBRMS&P500 purchase: 60,000 THB.
+- Next preferred allocation from prior advice: avoid putting all remaining quota into gold; consider prioritizing additional SCBRMS&P500 tranches or holding part of the quota for a clearer pullback.
+
+Transaction log:
+
+- 2026-06-08: User reported buying SCBRMS&P500 for 20,000 THB, following JJ's prior recommendation. Treat as user-provided transaction data; verify actual units/NAV from broker records before producing formal portfolio statements.
 
 Buy-signal trigger requested by user:
 
